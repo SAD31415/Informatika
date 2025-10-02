@@ -1,3 +1,4 @@
+```
 #include <iostream>
 #include <cmath> 
 #include <locale>
@@ -20,3 +21,4 @@ int main() {
     system("pause");
     return 0;
 }
+```
